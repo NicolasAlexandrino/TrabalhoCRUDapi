@@ -424,41 +424,42 @@ GET /professores
 
 ```text
 GET /professores/nome/{nome}
+```
 <img width="949" height="930" alt="Captura de tela 2026-10-04 224612" src="https://github.com/user-attachments/assets/73da93bf-7d1d-4929-a4af-60edd833d9de" />
 
-```
 
 ### 3. Filtrar por área
 
 ```text
 GET /professores/area/{area}
+```
 <img width="951" height="964" alt="Captura de tela 2026-10-04 224711" src="https://github.com/user-attachments/assets/169e116f-e408-488b-9d57-ff936a607368" />
 
-```
+
 
 ### 4. Cadastrar professor
 
 ```text
 POST /professores
+```
 <img width="942" height="941" alt="Captura de tela 2026-10-04 224803" src="https://github.com/user-attachments/assets/ebce8a43-6818-459c-b2b5-f086c0a45240" />
 
-```
 
 ### 5. Editar professor
 
 ```text
 PUT /professores/{id}
+```
 <img width="950" height="963" alt="Captura de tela 2026-10-04 224842" src="https://github.com/user-attachments/assets/d3317fbd-4159-4863-a313-86336e089649" />
 
-```
 
 ### 6. Excluir professor
 
 ```text
 DELETE /professores/{id}
+```
 <img width="947" height="956" alt="Captura de tela 2026-10-04 225007" src="https://github.com/user-attachments/assets/2a9887af-c4fc-4e1b-804b-b7ae6e991821" />
 
-```
 
 ---
 
