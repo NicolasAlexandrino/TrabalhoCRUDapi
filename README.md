@@ -415,8 +415,9 @@ Foram realizados testes para:
 
 ```text
 GET /professores
-<img width="1909" height="986" alt="Captura de tela 2026-10-04 224435" src="https://github.com/user-attachments/assets/5ca095ac-6a3e-4e76-bf76-86014f1b848e" />
 ```
+<img width="1909" height="986" alt="Captura de tela 2026-10-04 224435" src="https://github.com/user-attachments/assets/5ca095ac-6a3e-4e76-bf76-86014f1b848e" />
+
 
 
 ### 2. Filtrar por nome
